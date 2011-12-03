@@ -1,0 +1,8 @@
+Omegle bot
+----------
+
+Simple event-driven Omegle bot in Python. 
+
+Should allow for multiple (arbitrary numbers of) client instances to be tied
+together (for watching other conversations). 
+
